@@ -1,5 +1,5 @@
 # hola-mundo
 
-Soy humano!
+Hola humanos!
 
 Exitos y adelante! :)
